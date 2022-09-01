@@ -1,0 +1,8 @@
+#limits
+
+ulimit
+/etc/security/limits.conf
+
+# pam
+
+/etc/pam.d/
