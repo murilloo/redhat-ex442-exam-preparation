@@ -1,1 +1,2 @@
-process check with top, memory, swap, etc
+# top
+process check with top, sar, vmstat

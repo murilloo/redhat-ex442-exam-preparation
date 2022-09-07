@@ -1,0 +1,12 @@
+# sysctl
+sudo systemctl status systemd-sysctl.service
+sysctl -a
+
+# Modprobe
+modprobe -r cdrom
+modinfo cdrom
+lsmod
+
+# tuned-adm
+tuned-adm list
+
